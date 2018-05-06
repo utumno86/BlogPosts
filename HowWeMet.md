@@ -5,4 +5,4 @@ I had recently completed The Iron Yard code school and was looking, somewhat uns
 Austin had taken an interest in my personal life, and was regularly inviting me out to parties and the like.
 His girlfriend was involved with a Roller Derby team called the Bradentucky Bombers.
 One week he suggested that I come down to Bradenton to see a derby bout with him on Saturday because I needed to meet this girl that was on the Bombers.
-I was focused on becoming a better developer and my career in general.
+I was focused on becoming a better developer and my career in general, but I also didn't have anything better to do on a Saturday so I agreed to come down to the derby bout.
