@@ -38,11 +38,27 @@
 
   Notes: I have no idea why it's here, but this is the biggest collection of pieces by surrealist painter Salvador Dali this side of the Atlantic. Also, literally within walking distance of both the venue and the hotel.
 
+- [Sunken Gardens](http://www.stpete.org/attractions/sunken_gardens/index.php)
+
+  Distance from Shuffleboard Club: [1.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Sunken+Gardens,+4th+Street+North,+Saint+Petersburg,+FL/@27.7816944,-82.6501051,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e1657e0a9257:0x70d77b2754fc7557!2m2!1d-82.6384152!2d27.7895824)
+
+  Notes: Super retro tourist attraction that's just a big sinkhole with plants growing in it. I think they have a bird show. Was almost our wedding venue until we saw the price tag. Also probably within walking distance of the hotel.
+
 - [Clearwater Beach](https://www.visitstpeteclearwater.com/communities/clearwater-beach)
 
   Distance from Shuffleboard Club: [24.7](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Clearwater+Beach,+Clearwater,+FL/@27.828638,-82.8477811,10.74z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e948cae1c0d5:0xa2a27a0b28eb9f12!2m2!1d-82.8270846!2d27.9775301)
 
   Notes: Clearwater Beach is pretty consistently ranked amongst the best beaches in the country. They are also amongst the most popular and therefore crowded, though I don't know what that will be like in December. I've never quite gotten the hype (I prefer beaches that are less crowded like at Fort DeSoto below), but if you are a beach connoisseur this is probably the one you're interested in.
+
+- [Fort De Soto Park](http://www.pinellascounty.org/park/05_ft_desoto.htm)
+  Distance from Shuffleboard Club: [14.5](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Fort+De+Soto+Park,+Saint+Petersburg,+FL/@27.6536406,-82.7354588,12z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31b5b92af0bbb:0xa872b4e4c3759544!2m2!1d-82.7189421!2d27.6326329)
+
+  Notes: Fort De Soto has a cool Spanish-American War era fort as well as some pretty pristine beaches. Tends to not be as crowded as Clearwater Beach above.
+
+- [Sunshine Skyway Bridge](https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge)
+  Distance from Shuffleboard Club: [13.4](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Sunshine+Skyway+Bridge,+Interstate+275,+Saint+Petersburg,+FL/@27.6988959,-82.729149,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31be448040d33:0x80be62b805455b74!2m2!1d-82.6557137!2d27.6204349)
+
+  Notes: If you're into bridges, and I know you are, this one's a doozy. A bit weird to tell you take a big bridge across the bay just to turn around and come back, but there's not much of interest on the other side and the view and the bridge are totally worth it.
 
 ## Farther Afield
 
