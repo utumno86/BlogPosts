@@ -46,21 +46,52 @@
 
 - [Clearwater Beach](https://www.visitstpeteclearwater.com/communities/clearwater-beach)
 
-  Distance from Shuffleboard Club: [24.7](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Clearwater+Beach,+Clearwater,+FL/@27.828638,-82.8477811,10.74z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e948cae1c0d5:0xa2a27a0b28eb9f12!2m2!1d-82.8270846!2d27.9775301)
+  Distance from Shuffleboard Club: [24.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Clearwater+Beach,+Clearwater,+FL/@27.828638,-82.8477811,10.74z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e948cae1c0d5:0xa2a27a0b28eb9f12!2m2!1d-82.8270846!2d27.9775301)
 
   Notes: Clearwater Beach is pretty consistently ranked amongst the best beaches in the country. They are also amongst the most popular and therefore crowded, though I don't know what that will be like in December. I've never quite gotten the hype (I prefer beaches that are less crowded like at Fort DeSoto below), but if you are a beach connoisseur this is probably the one you're interested in.
 
 - [Fort De Soto Park](http://www.pinellascounty.org/park/05_ft_desoto.htm)
-  Distance from Shuffleboard Club: [14.5](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Fort+De+Soto+Park,+Saint+Petersburg,+FL/@27.6536406,-82.7354588,12z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31b5b92af0bbb:0xa872b4e4c3759544!2m2!1d-82.7189421!2d27.6326329)
+
+  Distance from Shuffleboard Club: [14.5 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Fort+De+Soto+Park,+Saint+Petersburg,+FL/@27.6536406,-82.7354588,12z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31b5b92af0bbb:0xa872b4e4c3759544!2m2!1d-82.7189421!2d27.6326329)
 
   Notes: Fort De Soto has a cool Spanish-American War era fort as well as some pretty pristine beaches. Tends to not be as crowded as Clearwater Beach above.
 
 - [Sunshine Skyway Bridge](https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge)
-  Distance from Shuffleboard Club: [13.4](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Sunshine+Skyway+Bridge,+Interstate+275,+Saint+Petersburg,+FL/@27.6988959,-82.729149,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31be448040d33:0x80be62b805455b74!2m2!1d-82.6557137!2d27.6204349)
 
-  Notes: If you're into bridges, and I know you are, this one's a doozy. A bit weird to tell you take a big bridge across the bay just to turn around and come back, but there's not much of interest on the other side and the view and the bridge are totally worth it.
+  Distance from Shuffleboard Club: [13.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Sunshine+Skyway+Bridge,+Interstate+275,+Saint+Petersburg,+FL/@27.6988959,-82.729149,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31be448040d33:0x80be62b805455b74!2m2!1d-82.6557137!2d27.6204349)
+
+  Notes: If you're into bridges, and I know you are, this one's a doozie. A bit weird to tell you take a big bridge across the bay just to turn around and come back, but there's not much of interest on the other side and the view and the bridge are totally worth it.
 
 ## Farther Afield
 
 ### Excursions
 
+- [Walt Disney World](https://disneyworld.disney.go.com/)
+
+  Distance from Shuffleboard Club: [90 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Walt+Disney+World+Resort,+Walt+Disney+World+Resort,+Orlando,+FL/@28.1619499,-82.584349,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88dd7ee634caa5f7:0xa71e391fd01cf1a0!2m2!1d-81.563874!2d28.385233)
+
+  Notes: I don't like to promote the idea that the only reason to come to Florida is Disney, but I'm realistic. I know one of the draws of our wedding is for people who want to go visit the rat.
+
+- [Universal Studios](https://www.universalorlando.com/web/en/us/index.html#subnav-a)
+
+  Distance from Shuffleboard Club: [100 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Universal+Studios+Florida,+Universal+Boulevard,+Orlando,+FL/@28.0525689,-82.5919536,9.05z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88e77ec39415df75:0xf985d8fc7734a5a1!2m2!1d-81.46646!2d28.4749751!5i1)
+
+  Notes: Disney's main competition in Orlando. It's been probably a decade since I was there but I remember Islands of Adventure being quite good. I think there's some Harry Potter thing there now.
+
+- [Bok Tower](https://boktowergardens.org/)
+
+  Distance from Shuffleboard Club: [88.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Bok+Tower+Gardens,+Tower+Boulevard,+Lake+Wales,+FL/@27.8798522,-82.6831813,9z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88dd090ea5023a99:0x834c281787a1fea1!2m2!1d-81.5758554!2d27.9376486!5i1)
+
+  Notes: There are a bunch of attractions in Florida that are basically some rich dude went a bit crazy and built an enormous monument in the middle of nowhere for no reason. Bok Tower is one of my favorites. It's an enormous Art Deco tower built on the highest hill in "peninsular" Florida. Awesome gardens designed by Frederick Law Olmsted. Also has a 60 bell carillon at the top, so stay for one of the short daily concerts. Side note: Liz and I also thought about getting married here but decided the location was more remote than we wanted to deal with. While you're there check out [Spook Hill](https://www.roadsideamerica.com/story/2058), which isn't like good or anything but is a pretty amazing slice of Americana.
+
+- [Solomon's Castle](http://solomonscastle.com/)
+
+  Distance from Shuffleboard Club: [69 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Solomon's+Castle,+Solomon+Road,+Ona,+FL/@27.573786,-82.6086379,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88dcc6e7589867d3:0x48712eb8e021b864!2m2!1d-81.977258!2d27.373151)
+
+  Notes: In the same weird roadside attraction vein as the above, here is a massive building full of weird sculptures made entirely out of garbage. The catch here is that the eccentric creator, Howard Solomon, actually lives there with his family. As a result you pretty much have to sign on to go take a tour of the house, but totally worth it.
+
+- [Tarpon Springs Sponge Docks](https://en.wikipedia.org/wiki/Tarpon_Springs,_Florida)
+
+  Distance from Shuffleboard Club: [32.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Tarpon+Springs+Sponge+Docks,+735+Dodecanese+Blvd,+Tarpon+Springs,+FL+34689/@27.9644547,-82.7852082,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c28da072d6a52d:0x11e13ab73c69d233!2m2!1d-82.757611!2d28.155592)
+
+  Notes: One of Liz and I's favorite day trips. Tarpon Springs is a town that was settled by Greek sponge divers in the 1900s and now has the highest concentration of Greek Americans in the U.S. You want to go there, follow signs for the sponge docks, park and stroll down Dodecanese Blvd. checking out all of cool curio shops and truly outstanding Greek cuisine. Highlights are our favorite restaurant there, [Hellas](https://www.visitstpeteclearwater.com/profile/hellas-restaurant/983), the best in kitschy tourist attractions [Spongeorama](https://spongeorama.com/), and the sponge boat tours from the docks (there are dozens). While you are in town check out the cool Eastern Orthodox Church, [St. Nicholas Cathedral](http://www.stnicholastarpon.org/).
