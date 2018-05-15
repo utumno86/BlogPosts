@@ -1,8 +1,8 @@
 # Things to Do in the "Other" Bay Area
 
-## Excursions
+## Tampa Side
 
-### Tampa Side
+### Excursions
 
 - [Tampa Theatre](http://tampatheatre.org/)
 
@@ -28,7 +28,9 @@
 
   Notes: Another awesome 1930s Moorish art deco building, the Henry B. Plant museum (formerly the Tampa Bay Hotel) on the University of Tampa campus is another iconic tampa sight. I've literally never been in side but you should still drive by it because it's a cool looking building.
 
-### St.Pete Side
+## St.Pete Side
+
+### Excursions
 
 - [The Dali Museum](http://thedali.org/)
 
@@ -42,4 +44,7 @@
 
   Notes: Clearwater Beach is pretty consistently ranked amongst the best beaches in the country. They are also amongst the most popular and therefore crowded, though I don't know what that will be like in December. I've never quite gotten the hype (I prefer beaches that are less crowded like at Fort DeSoto below), but if you are a beach connoisseur this is probably the one you're interested in.
 
-### Farther Afield
+## Farther Afield
+
+### Excursions
+
