@@ -26,7 +26,15 @@
 
   Distance from Shuffleboard Club: [23.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Henry+B.+Plant+Museum,+West+Kennedy+Boulevard,+Tampa,+FL/@27.8646345,-82.6303125,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c48f50cea035:0xe4bfc9a636464c21!2m2!1d-82.464194!2d27.946538)
 
-  Notes: Another awesome 1930s Moorish art deco building, the Henry B. Plant museum (formerly the Tampa Bay Hotel) on the University of Tampa campus is another iconic tampa sight. I've literally never been in side but you should still drive by it because it's a cool looking building.
+  Notes: Another awesome 1930s Moorish art deco building, the Henry B. Plant museum (formerly the Tampa Bay Hotel) on the University of Tampa campus is another iconic Tampa sight. I've literally never been in side but you should still drive by it because it's a cool looking building.
+
+### Restaurants
+
+- [Bern's Steakhouse](https://bernssteakhouse.com/)
+
+  Distance from Shuffleboard Club: [21.0 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Bern's+Steak+House,+1208+S+Howard+Ave,+Tampa,+FL+33606/@27.8567714,-82.648501,11.93z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c36776c70529:0xa227de3eb98b5024!2m2!1d-82.4828518!2d27.9316028!3e0)
+
+  Notes: One of the most famous restaurants in Tampa, and one of our perennial birthday dinner destinations. A fantastic experience, melt in your mouth steak, extensive wine cellar (allegedly the largest in North America), and the Harry Waugh Dessert Room (to which you are escorted after dinner) is a goddamn national treasure. Be prepared to drop a couple hundred bucks on dinner, though.
 
 ## St.Pete Side
 
