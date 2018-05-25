@@ -103,3 +103,11 @@
   Distance from Shuffleboard Club: [32.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Tarpon+Springs+Sponge+Docks,+735+Dodecanese+Blvd,+Tarpon+Springs,+FL+34689/@27.9644547,-82.7852082,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c28da072d6a52d:0x11e13ab73c69d233!2m2!1d-82.757611!2d28.155592)
 
   Notes: One of Liz and I's favorite day trips. Tarpon Springs is a town that was settled by Greek sponge divers in the 1900s and now has the highest concentration of Greek Americans in the U.S. You want to go there, follow signs for the sponge docks, park and stroll down Dodecanese Blvd. checking out all of cool curio shops and truly outstanding Greek cuisine. Highlights are our favorite restaurant there, [Hellas](https://www.visitstpeteclearwater.com/profile/hellas-restaurant/983), the best in kitschy tourist attractions [Spongeorama](https://spongeorama.com/), and the sponge boat tours from the docks (there are dozens). While you are in town check out the cool Eastern Orthodox Church, [St. Nicholas Cathedral](http://www.stnicholastarpon.org/).
+
+### Restaurants
+
+- [Pancho's Villa Mexican Restaurant](https://www.tripadvisor.com/Restaurant_Review-g34610-d830621-Reviews-Panchos_Villa_Mexican_Restaurant-San_Antonio_Florida.html)
+
+  Distance from Shuffleboard Club: [54.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Pancho's+Villa+Mexican+Restaurant,+Pennsylvania+Avenue,+San+Antonio,+FL/@28.0545556,-82.750207,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2ac423fdcb425:0x35250b80ff1371be!2m2!1d-82.2735444!2d28.3359988)
+
+  Notes: It's pretty far afield for a meal, but it's our favorite Mexican restaurant in the area. Go check out the other San Antonio
