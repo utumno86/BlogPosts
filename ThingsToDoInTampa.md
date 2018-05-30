@@ -36,6 +36,57 @@
 
   Notes: One of the most famous restaurants in Tampa, and one of our perennial birthday dinner destinations. A fantastic experience, melt in your mouth steak, extensive wine cellar (allegedly the largest in North America), and the Harry Waugh Dessert Room (to which you are escorted after dinner) is a goddamn national treasure. Be prepared to drop a couple hundred bucks on dinner, though.
 
+- [Columbia Restaurant](http://www.columbiarestaurant.com/)
+
+  Distance from Shuffleboard Club: [24.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Columbia+Restaurant,+East+7th+Avenue,+Tampa,+FL/@27.86576,-82.6175384,11.95z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4524dbbc7cf:0x3e9c07c7be9bec05!2m2!1d-82.4350771!2d27.959959!3e0)
+
+  Notes: Located in historic Cuban/Italian community Ybor City and founded in 1905, The Columbia is allegedly the oldest restaurant in Florida. There are a couple of Columbia branches, but accept no substitute for the real one on 7th Avenue in Ybor. The building and atmosphere is awesome and don't miss out on the live Flamenco dancers on weeknights. The Columbia has always been better on atmosphere than on actual food, you can't go wrong with the 1911 Salad and the Bambino steak. Alternately they have a wide array of Spanish/Cuban cuisine. For more stuff to do in Ybor, check out "Bars" section.
+
+- [La Teresita](http://www.lateresitarestaurant.com/)
+
+  Distance from Shuffleboard Club: [21.1 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/La+Teresita+Restaurant,+W+Columbus+Dr,+Tampa,+FL/@27.8702164,-82.6515368,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c3978ac26ed1:0x8dbeb0f5bbd4c3bf!2m2!1d-82.4965192!2d27.9664481!3e0)
+
+  Notes: The Columbia makes up for mediocre food with atmosphere, but La Terisita is the opposite, with probably the best Cuban food in town. They have a ritzy-ish sit down restaurant but the real action is around the back entrance where they offer diner-style seating and cafeteria service of the same food at a discounted price.
+
+- [Datz](http://datztampa.com/)
+
+  Distance from Shuffleboard Club: [22.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Datz,+South+MacDill+Avenue,+Tampa,+FL/@27.8639589,-82.6498857,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c3465be05253:0x272b063a25eeab49!2m2!1d-82.493217!2d27.92194!3e0)
+
+  Notes: Vying with Ella's (below), for area's best bougie brunch spot, Datz provides excellent southern style breakfast and dinner dishes as well as excellent cocktails. Check out sister store [Dough](https://bestdoughnuts.com/) next door if you are into doughnuts.
+
+- [Eddie & Sam's N.Y. Pizza](http://www.eddieandsamspizza.com/)
+
+  Distance from Shuffleboard Club: [22.9 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Eddie+%26+Sam's+Ny+Pizza,+East+Twiggs+Street,+Tampa,+FL/@27.8649453,-82.630312,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4897cc4d1f9:0x6c1faf9747aa441c!2m2!1d-82.4591727!2d27.9488577!3e0)
+
+  Notes: Located in the middle of downtown Tampa, Eddie and Sam's is probably the best pizza in town.
+
+- [Taco Son](https://www.tacosonmexicangrill.com/)
+
+  Distance from Shuffleboard Club: [30.1 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/TacoSon+Authentic+Mexican+Grill,+North+56th+Street,+Tampa,+FL/@27.8953829,-82.5998093,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c61f3e626e4f:0x11c5903b12c4f3d3!2m2!1d-82.3930642!2d28.0170385!3e0)
+
+  Notes: Closer to our neck of the woods, Taco Sun is our favorite cheap Mexican place around. Have not ever been to the original Taco Son in St. Petersburg (and it has a complicated relationship with other local chain Taco Bus), but the one on 56th street is great.
+
+- [Seminole Heights](https://en.wikipedia.org/wiki/Seminole_Heights)
+
+  Distance from Shuffleboard Club: [25.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Ella%E2%80%99s+Americana+Folk+Art+Cafe,+North+Nebraska+Avenue,+Tampa,+FL/@27.8761938,-82.6155539,11.8z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4219d574321:0x554175bf5d7b952b!2m2!1d-82.4509196!2d27.9935829!3e0)
+
+  Notes: Serial killer free since 2017, Seminole Heights is the largest up-and-coming hipster gentrification neighborhood in Tampa. As a result, it has a great collection of food and drink options and will be popping up in this list repeatedly. Get your boozy sunday brunch on with BBQ and bloody marys with an actual pork rib in them at [Ellas Cafe](http://www.ellasfolkartcafe.com/). The rib bloody mary is a real selling point, but actually they have amazing cocktails, excellent food, and live music all the time, so they are a good choice for any time. Get hearty farm-to-table style meals at [The Refinery](http://thetamparefinery.com/). Get weird seasonal tapas at [The Rooster and the Till](http://www.roosterandthetill.com/). Get gastrobup burgers, truffle fries, cheese plates, and I'm told, excellent gluten free options at [The Mermaid Tavern](https://www.mermaidtaverntampa.com/). If you are into greasy spoon diners (and believe me, you should be) you can't beat [Three Coins Diner](https://threecoinsdiner.net/).
+
+- [Cuban Sandwiches](https://en.wikipedia.org/wiki/Cuban_sandwich)
+
+  Notes: One of Tampa's claims to fame is as the originator city of the Cuban sandwich. There's a lot of weirdness in Cuban Sandwich culture that we don't need to get into here, but you should really have one if you are going to be in town a few days. Perennial favorites on "Best of" lists are [Brocato's Sandwich Shop](https://brocatossandwich.com/) and [The Cuban Sandwich Shop](http://www.thecubansandwichshop.com/). If you are up in our neck of the woods, [Ruben's Cubans](https://www.rubenscubancafe.com/) is a good choice. If you are in Downtown St. Pete, [Bodega on Central](http://eatatbodega.com/) is a good choice. If you are looking for my favorite Cuban sandwich place in town, check out the [Interbay Meat Market](http://www.interbaymeatmarket.com/) down on MacDill. And if you are looking for the best cuban sandwiches around and willing to make a serious drive and eat outside at picnic tables, I haven't found any better than the [Strawberry Hut](https://www.thestrawberryhut.com/) in Plant City.
+
+
+### Breweries
+
+- [Cigar City Brewery](https://cigarcitybrewing.com/)
+
+  Distance from Shuffleboard Club: [20.1 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Cigar+City+Brewing+Company,+West+Spruce+Street,+Tampa,+FL/@27.8666011,-82.6578727,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c23905f3b78b:0x66bc6a7b69581ab!2m2!1d-82.5091911!2d27.959001!3e0)
+
+  Notes: Founded by the son of Tampa strip club magnate [Joe Redner](https://en.wikipedia.org/wiki/Joe_Redner), Cigar City is the biggest and probably best of the Bay Area breweries that popped up like mushrooms as craft breweries became a thing. They have a rotating cast of beer on tap, but my favorite of their standbys is the Brown Maduro. The taproom usually has a food truck. Even though Ybor is often referred to as "Cigar City" Cigar City Brewery is not located in Ybor; it's on Spruce Street by the airport. To make matters more confusing, there is a Cigar City Meadery that *is* in Ybor. *Shrug*.
+
+
+
 ## St.Pete Side
 
 ### Excursions
