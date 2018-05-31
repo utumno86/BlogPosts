@@ -66,6 +66,12 @@
 
   Notes: Closer to our neck of the woods, Taco Sun is our favorite cheap Mexican place around. Have not ever been to the original Taco Son in St. Petersburg (and it has a complicated relationship with other local chain Taco Bus), but the one on 56th street is great.
 
+- [Mr. Dunderbak's](http://dunderbaks.ieasysite.com/)
+
+  Distance from Shuffleboard Club: [34.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Mr.+Dunderbak's+Biergarten+and+Brewery,+Bruce+B+Downs+Boulevard,+Tampa,+FL/@27.931439,-82.6792748,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c78c99874f6f:0x970f151a797cd1e8!2m2!1d-82.411907!2d28.083089!3e0)
+
+  Notes: Super good German food and beer. Also at the bottom end of New Tampa, another suburban neighborhood.
+
 - [Seminole Heights](https://en.wikipedia.org/wiki/Seminole_Heights)
 
   Distance from Shuffleboard Club: [25.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Ella%E2%80%99s+Americana+Folk+Art+Cafe,+North+Nebraska+Avenue,+Tampa,+FL/@27.8761938,-82.6155539,11.8z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4219d574321:0x554175bf5d7b952b!2m2!1d-82.4509196!2d27.9935829!3e0)
@@ -103,7 +109,39 @@
 
   Notes: Also in Seminole Heights, Angry Chair is friendly, has great beer, but is a tad small and has some parking issues. I'm a fan of their Two Pump Chump
 
+### Bars
 
+- [MacDinton's](http://soho.macdintonsirishpub.com/)
+
+  Distance from the Shuffleboard Club: [22.2 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/MacDinton's+Soho,+South+Howard+Avenue,+Tampa,+FL/@27.863032,-82.6422583,11.98z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c364e40e244d:0x1cccbfc7766d53e5!2m2!1d-82.483172!2d27.940559!3e0)
+
+  Notes: MacDinton's is the heart of the South Tampa bar district called Soho (and affectionately known by locals as Broho). If you like hanging out with frat boys and bachelor parties on their way to Tampa's strip clubs, Broho is your place. Also, MacDinton's is the sponsor of Liz's old Rugby team so there's a fair chance of running into Rugby girls too.
+
+- [Four Green Fields](http://www.fourgreenfields.com/)
+
+  Distance from the Shuffleboard Club: [21.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Four+Green+Fields,+West+Platt+Street,+Tampa,+FL/@27.8647935,-82.6326693,12z/data=!4m15!4m14!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c48e32feec6b:0xbd7b6e401f32851f!2m2!1d-82.4616115!2d27.9418871!3e0!5i1)
+
+  Notes: My favorite bar in Tampa. Advertises as being the only authentic thatched roof pub in the United States. Espouses some pretty sketchy ideas about Irish independence. Good wings. Authentic grizzled old Irish dude singing sounds on Friday and Saturday night. All this is in reference to the original bar on Platt St. I've never been to the new one in Curtis Hixon Park.
+
+- [The Independent](http://independentbartampa.com/)
+
+  Distance from the Shuffleboard Club: [25.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Independent+Bar+and+Cafe,+5016+N+Florida+Ave,+Tampa,+FL+33603/@27.8826933,-82.629499,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c41be7cdfe3d:0x6bff3b67539d46a3!2m2!1d-82.4596096!2d27.9919626!3e0)
+
+  Notes: A lot of the Seminole Heights restaurants double as bars, but the best loved bar in the neighborhood is the Indie. Great beer, great atmosphere, decent food.
+
+
+- [Gaspar's Patio](http://www.gasparspatio.com/)
+
+  Distance from the Shuffleboard Club: [31.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Gaspar's+Patio+Bar+%26+Grille,+North+56th+Street,+Temple+Terrace,+FL/@27.9050099,-82.6770331,10.94z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c626804d9e0b:0x53527567b25c3763!2m2!1d-82.3938292!2d28.0276113!3e0)
+
+  Notes: Our friendly neighborhood bar. When I was younger and singler I would close out the bar every Friday night. Live Music and Karaoke (in different parts of the bar) on Friday and Saturday night. Check out the liquor store next door, it's our favorite around.
+
+- [Ybor City](https://www.visittampabay.com/unlock-tampa-bay/districts/ybor-city/)
+
+  Distance from Shuffleboard Club: [24.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Columbia+Restaurant,+East+7th+Avenue,+Tampa,+FL/@27.86576,-82.6175384,11.95z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4524dbbc7cf:0x3e9c07c7be9bec05!2m2!1d-82.4350771!2d27.959959!3e0)
+
+  Notes: The main bar district in Tampa is in historic Ybor City, centered around 7th avenue (affectionately called La Setima) between 22nd St. and about 13th St. It has bars for all tastes and ages, from cigar bars to karaoke to fetish nightclubs to LGBT bars to hipster gastropubs. A few recommendations: For the smoker, [King Corona](http://kingcoronacigars.com/) cigar bar has a great location and excellent Sangria. [The Lion's Den](https://yborcityonline.com/lions-den-cigar-lounge/) has comfy couches and amazing cocktails. (Also, my babrber is there, tucked into a small room in the corner of the bar.) For a kind of chill divy bar, I like [The Dirty Shame](http://www.tampabay.com/things-to-do/food/spirits/the-dirty-shame-a-classic-dive-with-ybor-city-attitude/2140125) on the far edge of the Ybor strip. [The Double Decker](http://www.doubledeckertampa.com/) for karaoke. [Samurai Blue](http://samuraiblue.com/) for sushi.
+  [Tampa Bay Brewing Company](https://www.tbbc.beer/home) for craft beer and burgers. [The Bricks](https://www.thebricksybor.com/) for fancy cocktails and hispter gastropub fare. My favorite place in Ybor, (and where I used to take first dates), is [Cigar City Cider and Mead](http://www.cigarcitycider.com/). A bit off the beaten track, but pretty much the place in Tampa if you are into Cider or Mead.
 
 ## St.Pete Side
 
