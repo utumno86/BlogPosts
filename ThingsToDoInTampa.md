@@ -79,11 +79,29 @@
 
 ### Breweries
 
-- [Cigar City Brewery](https://cigarcitybrewing.com/)
+- [Cigar City Brewing](https://cigarcitybrewing.com/)
 
   Distance from Shuffleboard Club: [20.1 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Cigar+City+Brewing+Company,+West+Spruce+Street,+Tampa,+FL/@27.8666011,-82.6578727,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c23905f3b78b:0x66bc6a7b69581ab!2m2!1d-82.5091911!2d27.959001!3e0)
 
   Notes: Founded by the son of Tampa strip club magnate [Joe Redner](https://en.wikipedia.org/wiki/Joe_Redner), Cigar City is the biggest and probably best of the Bay Area breweries that popped up like mushrooms as craft breweries became a thing. They have a rotating cast of beer on tap, but my favorite of their standbys is the Brown Maduro. The taproom usually has a food truck. Even though Ybor is often referred to as "Cigar City" Cigar City Brewery is not located in Ybor; it's on Spruce Street by the airport. To make matters more confusing, there is a Cigar City Meadery that *is* in Ybor. *Shrug*.
+
+- [Hidden Springs Ale Works](http://hiddenspringsaleworks.com/)
+
+  Distance from the Shuffleboard Club: [22.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Hidden+Springs+Ale+Works,+North+Franklin+Street,+Tampa,+FL/@27.8871105,-82.5087758,12z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4641109923f:0xdc1e226e7ef66d18!2m2!1d-82.459935!2d27.959295!3e0)
+
+  Notes: Downtownish, cozy taproom, the Deja Moo is probably my second favorite local beer
+
+- [Coppertail Brewing Co.](http://coppertailbrewing.com/)
+
+  Distance from the Shuffleboard Club: [24.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Coppertail+Brewing+Co.,+East+2nd+Avenue,+Tampa,+FL/@27.8691524,-82.6183585,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c5ab649a7bcb:0x71f69fc7b8ab4fa6!2m2!1d-82.4301625!2d27.9562885!3e0)
+
+  Notes: Also Downtownish, but a bit bigger than some of the others mentioned here. Haven for lovers of dark beer. Fan of the Coppertail Nightswim.
+
+- [Angry Chair Brewing](http://angrychairbrewing.com/)
+
+  Distance from the Shuffleboard Club: [26.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Angry+Chair+Brewing,+North+Florida+Avenue,+Tampa,+FL/@27.8892789,-82.629499,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c6a4011cbc47:0x9a16cf5b02bc8fc7!2m2!1d-82.4592887!2d28.0051338!3e0)
+
+  Notes: Also in Seminole Heights, Angry Chair is friendly, has great beer, but is a tad small and has some parking issues. I'm a fan of their Two Pump Chump
 
 
 
