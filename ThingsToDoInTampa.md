@@ -60,6 +60,12 @@
 
   Notes: Located in the middle of downtown Tampa, Eddie and Sam's is probably the best pizza in town.
 
+- [China Yuan](http://www.chinayuanrestaurant.com/)
+
+  Distance from Shuffleboard Club: [29.5 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/China+Yuan,+8502+N+Armenia+Ave+%231a,+Tampa,+FL+33604/@27.906773,-82.699546,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c1376c5795b3:0x28b90c65d625d642!2m2!1d-82.4846457!2d28.0279307)
+
+  Notes: Located in the small Tampa Chinatown at the corner of Waters and Armenia, China Yuan is the only reasonably authentic Chinese restaurant in Tampa. Cantonese cuisine, seafood and Dim Sum.
+
 - [Taco Son](https://www.tacosonmexicangrill.com/)
 
   Distance from Shuffleboard Club: [30.1 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/TacoSon+Authentic+Mexican+Grill,+North+56th+Street,+Tampa,+FL/@27.8953829,-82.5998093,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c61f3e626e4f:0x11c5903b12c4f3d3!2m2!1d-82.3930642!2d28.0170385!3e0)
@@ -76,7 +82,7 @@
 
   Distance from Shuffleboard Club: [25.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Ella%E2%80%99s+Americana+Folk+Art+Cafe,+North+Nebraska+Avenue,+Tampa,+FL/@27.8761938,-82.6155539,11.8z/data=!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c4219d574321:0x554175bf5d7b952b!2m2!1d-82.4509196!2d27.9935829!3e0)
 
-  Notes: Serial killer free since 2017, Seminole Heights is the largest up-and-coming hipster gentrification neighborhood in Tampa. As a result, it has a great collection of food and drink options and will be popping up in this list repeatedly. Get your boozy sunday brunch on with BBQ and bloody marys with an actual pork rib in them at [Ellas Cafe](http://www.ellasfolkartcafe.com/). The rib bloody mary is a real selling point, but actually they have amazing cocktails, excellent food, and live music all the time, so they are a good choice for any time. Get hearty farm-to-table style meals at [The Refinery](http://thetamparefinery.com/). Get weird seasonal tapas at [The Rooster and the Till](http://www.roosterandthetill.com/). Get gastrobup burgers, truffle fries, cheese plates, and I'm told, excellent gluten free options at [The Mermaid Tavern](https://www.mermaidtaverntampa.com/). If you are into greasy spoon diners (and believe me, you should be) you can't beat [Three Coins Diner](https://threecoinsdiner.net/).
+  Notes: Serial killer free since 2017, Seminole Heights is the largest up-and-coming hipster gentrification neighborhood in Tampa. As a result, it has a great collection of food and drink options and will be popping up in this list repeatedly. Get your boozy sunday brunch on with BBQ and bloody marys with an actual pork rib in them at [Ellas Cafe](http://www.ellasfolkartcafe.com/). The rib bloody mary is a real selling point, but actually they have amazing cocktails, excellent food, and live music all the time, so they are a good choice for any time. Get hearty farm-to-table style meals at [The Refinery](http://thetamparefinery.com/). Get weird seasonal tapas at [The Rooster and the Till](http://www.roosterandthetill.com/). Get gastrobup burgers, truffle fries, cheese plates, and I'm told, excellent gluten free options at [The Mermaid Tavern](https://www.mermaidtaverntampa.com/). If you are into greasy spoon diners (and believe me, you should be) you can't beat [Three Coins Diner](https://threecoinsdiner.net/). For desert, check out local indie ice cream parlor [Revolution Ice Cream](http://revicecream.com/index.php)
 
 - [Cuban Sandwiches](https://en.wikipedia.org/wiki/Cuban_sandwich)
 
@@ -176,6 +182,11 @@
   Distance from Shuffleboard Club: [13.4 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Sunshine+Skyway+Bridge,+Interstate+275,+Saint+Petersburg,+FL/@27.6988959,-82.729149,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c31be448040d33:0x80be62b805455b74!2m2!1d-82.6557137!2d27.6204349)
 
   Notes: If you're into bridges, and I know you are, this one's a doozie. A bit weird to tell you take a big bridge across the bay just to turn around and come back, but there's not much of interest on the other side and the view and the bridge are totally worth it.
+
+### Restaurants
+
+- []
+
 
 ## Farther Afield
 
