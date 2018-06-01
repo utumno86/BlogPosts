@@ -191,7 +191,25 @@
 
 ### Restaurants
 
-- []
+- [The Tap Room At The Hollander Hotel](https://hollanderhotel.com/the-tap-room/)
+
+  Distance from Shuffleboard Club: [0.3 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Tap+Room+at+the+Hollander+Hotel,+421+4th+Ave+N,+St.+Petersburg,+FL+33701/@27.7758516,-82.6410194,18z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e1786cf61693:0x53981c5ce5b456cc!2m2!1d-82.6391171!2d27.7767796)
+
+  Notes: Part of the reason we suggest you book rooms at The Hollander/ The Avalon is that the Hollander Restaurant is solid and within walking distance of the wedding site.
+
+- [Ichicoro Ane](https://www.ichicoroane.com/)
+
+  Distance from Shuffleboard Club: [0.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Ichicoro+Ane,+1st+Avenue+South,+Saint+Petersburg,+FL/@27.7731295,-82.6410408,16.94z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e19ca165be59:0x211aa19994ab5774!2m2!1d-82.6364156!2d27.7701595)
+
+  Notes: Sweet ramen place in downtown St. Pete. As a bonus, the building it's in is the former location of The Iron Yard, the code school that Liz and I both went to.
+
+- [Red Mesa Mercado](http://www.redmesamercado.com/)
+
+  Distance from Shuffleboard Club: [0.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Red+Mesa+Mercado,+1st+Avenue+North,+Saint+Petersburg,+FL/@27.7736237,-82.6486994,16z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e22a394f625d:0x908ca7ec69a7fa56!2m2!1d-82.650074!2d27.771715)
+
+  Notes: Solid California-style Mexican food. Not to be confused with [Red Mesa Cantina](https://www.redmesacantina.com/), their Tex Mex and bar branch which neither Liz nor I are particularly fans of.
+
+### Breweries
 
 
 ## Farther Afield
