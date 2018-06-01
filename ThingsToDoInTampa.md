@@ -171,6 +171,12 @@
 
   Notes: Super retro tourist attraction that's just a big sinkhole with plants growing in it. I think they have a bird show. Was almost our wedding venue until we saw the price tag. Also probably within walking distance of the hotel.
 
+- [Haslam's Book Store](http://www.haslams.com/)
+
+  Distance from Shuffleboard Club: [1.5 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Haslam's+Book+Store+Inc,+Central+Avenue,+Saint+Petersburg,+FL/@27.773289,-82.6597888,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e232212c1161:0xa7ac43480f12e1a2!2m2!1d-82.6608265!2d27.7713333!3e2)
+
+  Notes: Old, Massive used book store, and my favorite book store in the bay area. Reminds me of The Strand in New York.
+
 - [Clearwater Beach](https://www.visitstpeteclearwater.com/communities/clearwater-beach)
 
   Distance from Shuffleboard Club: [24.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+Mirror+Lake+Drive+North,+Saint+Petersburg,+FL/Clearwater+Beach,+Clearwater,+FL/@27.828638,-82.8477811,10.74z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e948cae1c0d5:0xa2a27a0b28eb9f12!2m2!1d-82.8270846!2d27.9775301)
@@ -203,7 +209,13 @@
 
   Notes: Sweet ramen place in downtown St. Pete. As a bonus, the building it's in is the former location of The Iron Yard, the code school that Liz and I both went to.
 
-- [Moon Under Water](http://themoonunderwater.com/)
+- [Engine No. 9](http://www.no9burgers.com/)
+
+  Distance from Shuffleboard Club: [0.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Engine+No.+9,+Doctor+Martin+Luther+King+Junior+Street+North,+Saint+Petersburg,+FL/@27.7734705,-82.6468954,16.01z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e180c1fa091f:0x5b32d7a4616936d!2m2!1d-82.6469799!2d27.7718291)
+
+  Notes: Really solid place for craft burgers.
+
+- [The Moon Under Water](http://themoonunderwater.com/)
 
   Distance from Shuffleboard Club: [0.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/The+Moon+Under+Water,+Beach+Drive+Northeast,+Saint+Petersburg,+FL/@27.7756627,-82.6409145,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e17607255479:0xcf1eac14502f2b46!2m2!1d-82.6322671!2d27.7758476)
 
@@ -234,8 +246,25 @@
 
   Distance from Shuffleboard Club: [15.2 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Barley+Mow+Brewing+Company,+2535+E+Bay+Dr,+Largo,+FL+33771/@27.845066,-82.76979,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2fa73e2105597:0x633347c4d91207f0!2m2!1d-82.7609341!2d27.9162124)
 
-  A bit out of the way in Largo, Barley Mow is home to my absolute favorite local beer, the Maven Milk Stout. The last time I was there, there was a burlesque show, so keep an eye out for that as well.
+  A bit out of the way in Largo, Barley Mow is home to my absolute favorite local beer, the Maven Milk Stout. The last time I was there,there was a burlesque show, so keep an eye out for that as well.
 
+### Bars
+
+- [The Ale and the Witch](http://www.thealeandthewitch.com/)
+
+  Distance from Shuffleboard Club: [0.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/The+Ale+and+the+Witch,+2nd+Avenue+Northeast,+Saint+Petersburg,+FL/@27.774486,-82.6399356,16.94z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e19dbfaeccc3:0xacddb25a06208ec2!2m2!1d-82.633671!2d27.7739496)
+
+  Notes: Really cozy neighborhood bar, usually with live music, in the tourist part of the bayshore.
+
+- [Hops and Props](http://www.hopsprops.com/)
+
+  Distance from Shuffleboard Club: [1.2 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Hops+and+Props,+2nd+Avenue+Northeast,+Saint+Petersburg,+FL/@27.7729196,-82.6387977,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e19e47598995:0x652e173bbefc3891!2m2!1d-82.6307138!2d27.7738844)
+
+  Notes: Great mostly outdoor bar with craft beer. On the pier!
+
+- [Central Avenue](http://www.visitflorida.com/en-us/cities/st-petersburg/central-avenue-st-petersburg.html)
+
+- Notes: There's a pretty intense bar/restaurant district in downtown St. Pete along Central Avenue, between roughly 2nd St and 6th St. Within walking distance of the hotel. You can wave to my office in the big blue skyscraper on Central and 4rth St. [The Mandarin Hide](http://www.mandarinhide.com/) is an upscale bar with amazing (though pricey) cocktails. Next door, [Mastery's](https://www.tripadvisor.com/Restaurant_Review-g34607-d4192494-Reviews-Mastry_s_Bar_Grill-St_Petersburg_Florida.html) is an excellent cheap dive bar. 2 doors down,[Five Bucks Drinkery](http://fivebucksdrinkery.com/) is a great cheap bar with good food for (you guessed it) 5 bucks a dish. This was our main hangout when The Iron Yard was located at The Station House. Across the street, [The Mill](http://themillrestaurants.com/) is a great place for upscale tapas and cocktails. A couple of blocks down central from there, there are a string of excellent Asian food restaurants, [Asie](http://asiepanasian.com/) for sushi, [La V](http://lavfusion.com/) for Vietnamese, and a block further [9Bangkok Thai](http://www.9bangkok.info/index.html) for Thai. A block further down there's more hipster stores and bars. Check out [The Emerald](https://www.yelp.com/biz/emerald-bar-st-petersburg) for my Boss's favorite dive bar. Check out the [Maple Street Biscuit Company](https://maplestreetbiscuits.com/) if you like biscuits and [Daddy Kool Records](https://www.daddykool.com/) if you are in to vintage record stores.
 
 ## Farther Afield
 
