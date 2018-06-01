@@ -203,6 +203,13 @@
 
   Notes: Sweet ramen place in downtown St. Pete. As a bonus, the building it's in is the former location of The Iron Yard, the code school that Liz and I both went to.
 
+- [Moon Under Water](http://themoonunderwater.com/)
+
+  Distance from Shuffleboard Club: [0.7 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/The+Moon+Under+Water,+Beach+Drive+Northeast,+Saint+Petersburg,+FL/@27.7756627,-82.6409145,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e17607255479:0xcf1eac14502f2b46!2m2!1d-82.6322671!2d27.7758476)
+
+  Notes: British-style pub with tremendous curry dishes along with more traditional British fare. Located in one of the big bayshore tourist destinations in downtown St. Pete.
+
+
 - [Red Mesa Mercado](http://www.redmesamercado.com/)
 
   Distance from Shuffleboard Club: [0.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Red+Mesa+Mercado,+1st+Avenue+North,+Saint+Petersburg,+FL/@27.7736237,-82.6486994,16z/data=!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e22a394f625d:0x908ca7ec69a7fa56!2m2!1d-82.650074!2d27.771715)
@@ -210,6 +217,24 @@
   Notes: Solid California-style Mexican food. Not to be confused with [Red Mesa Cantina](https://www.redmesacantina.com/), their Tex Mex and bar branch which neither Liz nor I are particularly fans of.
 
 ### Breweries
+
+- [3 Daughters Brewing](http://3dbrewing.com/)
+
+  Distance from Shuffleboard Club: [1.8 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/3+Daughters+Brewing,+22nd+Street+South,+Saint+Petersburg,+FL/@27.7710233,-82.6609067,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e2311081c6db:0x4d9834cf3055fece!2m2!1d-82.6627049!2d27.769051)
+
+  Notes: Probably the biggest brewery on the St. Pete side. I'm a particular fan of the Stern Line Stout.
+
+- [Green Bench Brewing Co.](http://greenbenchbrewing.com/)
+
+  Distance from Shuffleboard Club: [0.9 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Green+Bench+Brewing+Company,+Baum+Avenue+North,+Saint+Petersburg,+FL/@27.7734965,-82.6495736,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2e22a3b9a8b5f:0x3e16cbbb2b528ccc!2m2!1d-82.6506442!2d27.7718639)
+
+  Notes: Good beer, pleasant outdoor setting, usually has live music. I quite like the Coffee Pot Bayou Stout
+
+- [Barley Mow Brewing Company](https://www.mowbeer.com/)
+
+  Distance from Shuffleboard Club: [15.2 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Barley+Mow+Brewing+Company,+2535+E+Bay+Dr,+Largo,+FL+33771/@27.845066,-82.76979,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2fa73e2105597:0x633347c4d91207f0!2m2!1d-82.7609341!2d27.9162124)
+
+  A bit out of the way in Largo, Barley Mow is home to my absolute favorite local beer, the Maven Milk Stout. The last time I was there, there was a burlesque show, so keep an eye out for that as well.
 
 
 ## Farther Afield
