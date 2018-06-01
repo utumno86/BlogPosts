@@ -135,6 +135,12 @@
 
   Notes: A lot of the Seminole Heights restaurants double as bars, but the best loved bar in the neighborhood is the Indie. Great beer, great atmosphere, decent food.
 
+- [Lowry Parcade](https://lowryparcade.com/)
+
+  Distance from the Shuffleboard Club: [28.6 mi](https://www.google.com/maps/dir/St+Petersburg+Shuffleboard+Clb,+559+Mirror+Lake+Dr+N,+St.+Petersburg,+FL+33701/Lowry+Parcade,+West+Waters+Avenue,+Tampa,+FL/@27.89949,-82.699546,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88c2e1820b13a015:0xc143aab8b6bcbb90!2m2!1d-82.6412416!2d27.7755088!1m5!1m1!1s0x88c2c6ca4bd7f777:0x9262d2ac6f017c44!2m2!1d-82.4712711!2d28.0256623)
+
+  Notes: Also in Seminole Heights, is this sweet arcade bar. Drink beer and play pinball!
+
 
 - [Gaspar's Patio](http://www.gasparspatio.com/)
 
