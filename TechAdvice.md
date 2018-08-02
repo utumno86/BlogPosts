@@ -1,7 +1,7 @@
 Getting Into Tech
 =================
 
-I started with almost no coding background and went through a bootcamp called The Iron Yard. TIY was regional, but these coding bootcamps exist all over the place. TIY itself is now defunct, but the people who were involved with the Tampa/St.Pete campus went on to start the [Suncoast Developer's Guild](https://suncoast.io/). TIY was a big time commitment and expensive, but it was very valuable for establishing connections with the community, and it was ultimately through connections with them that I got both of the developer positions I've held.
+I started with almost no coding background and went through a bootcamp called The Iron Yard. TIY was regional, but these coding bootcamps exist all over the place. The bootcamp itself is now defunct, but the people who were involved with the Tampa/St.Pete campus went on to start the [Suncoast Developer's Guild](https://suncoast.io/), which has it's own bootcamp. Attending a bootcamp was a big time commitment and expensive, but it was very valuable for establishing connections with the community, and it was ultimately through connections with them that I got both of the developer positions I've held.
 
 A couple of caveats though. Since there aren't really any certifications or anything, basically what you are buying when you go to these things is knowledge and connections. You can get both elsewhere and more cheaply; it's just a matter of how much structure and people pointing you in the right direction you need. By the same token, you can go through one of these programs and come out unemployable (I know several people who did). Basically if you go in, you have to give it your all and make sure that you come up with something great for your final project so that you can present it to potential employers.
 
@@ -13,7 +13,7 @@ Github is a hosting site for open source code projects, so when you actually sta
 
 2) **Make connections with the developers in your community.**
 
- Tampa/St.Pete, for example, has the Suncoast Developer's Guild (which contains Suncoast.js and The Tampa Ruby Brigade as part of it's greater umbrella). Alternatively, you can just troll Meetup.com for local meetups for Ruby, Python, Javascript, or Java. Coding meetups are great for meeting people that can help you with specific coding problems, and they are also crucial for making connections that can get you a job later. Most new hires (at least in Tampa) get in through word of mouth.
+ Tampa/St.Pete, for example, has the Suncoast Developer's Guild (which contains Suncoast.js and The Tampa Ruby Brigade as part of it's greater umbrella). Alternatively, you can just troll Meetup.com for local meetups for Ruby, Python, Javascript, Java, or .Net. Coding meetups are great for meeting people that can help you with specific coding problems, and they are also crucial for making connections that can get you a job later. Most new hires (at least in Tampa) get in through word of mouth.
 
 3) **Be nice to recruiters**
 
@@ -43,15 +43,17 @@ git is a command line based Version Control system which is pretty universally u
 
 6) **Pick a programming language and learn it reasonably well.**
 
-Picking your first language is important but maybe not as important as you think. In the long run most languages and patterns are pretty similar, and eventually you will have an arsenal of 5 or 6 major coding languages and dozens of smaller ones. In the short term, however, you will want to focus all of your effort into learning one. For starting out your choices are basically Ruby, Python, Javascript, and Java. You might want to look at job postings in your area to see what is in highest demand; I can only speak to what it's like in Tampa.
+Picking your first language is important but maybe not as important as you think. In the long run most languages and patterns are pretty similar, and eventually you will have an arsenal of 5 or 6 major coding languages and dozens of smaller ones. In the short term, however, you will want to focus all of your effort into learning one. For starting out your choices are basically Ruby, Python, Javascript, and Java. If you are developing on Windows, you will want to look into .Net, which is a suite of development tools primarily using C++ and C#. You might want to look at job postings in your area to see what is in highest demand; I can only speak to what it's like in Tampa.
 
 - Javascript is experiencing a boom, as tooling and frameworks for JS in front end development are being released at an alarming rate. Plus, since JS is used in almost every front end and even sites that don't have a full on back end have need for front end developers, there tend to be plenty of JS jobs to go around. That said, I think it's difficult to learn, and the sheer number of choices can be overwhelming for a beginner.
 
-- Python is also in high demand, and it's easy to learn, and it has a lot of tooling. That said, it's scope in web development is pretty small; it tends to be used more to write data science applications and devops scripts than for web development.
+- Python is also in high demand, and it's easy to learn, and it has a lot of tooling. That said, it's scope in web development is pretty small; it tends to be used more to write data science applications and devops scripts, as well as in security and IoT systems than for web development.
 
 - Ruby is a really elegant language and it's easy to learn, and I like it a lot, but it's not as easy to get a job in. (That said, Ruby has Rails, which is a web application platform that's very easy to pick up).
 
 - Java is a bit of a dinosaur and I can't say much to recommended it except that a lot of old enterprise level applications are written in it and there are a lot of high paying jobs to be had working in it. My first professional gig was in a Java offshoot called [Groovy](http://groovy-lang.org/).
+
+- Like Java, .Net is huge for a lot of older enterprise systems, and depending on your area there might be a lot of openings for it at big companies.
 
 I recommend codecademy for the sort of beginner stuff on those languages. Once you have the basics down, you can ramp up your skills doing coding exercises. I personally really like [Exercism](https://exercism.io/) but it has a steep learning curve. [Code Wars](https://www.codewars.com/) is also really popular.
 
