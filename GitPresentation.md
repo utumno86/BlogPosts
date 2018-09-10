@@ -5,6 +5,15 @@ A Crash Course By
 
 ---
 
+Who Am I?
+=========
+
+![Me and My Fiance With Our Cats in Christmas Hats](images/WithCats.jpeg)
+
+- Iron Yard Cohort 3 Ruby on Rails (Summer 2015) Grad
+
+---
+
 Class Resources
 ================
 
