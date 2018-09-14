@@ -16,7 +16,7 @@ Who Am I?
 Additional Cats
 ===============
 
-![Grey Cat](images/HopperCat.jpg)
+![Very dirty black and white cat](images/HopperCat.jpg)
 
 ---------------
 
@@ -39,3 +39,20 @@ What is a version control system?
 From Wikipedia -
 
 "... management of changes to documents, computer programs, large web sites, and other collections of information."
+
+----------------------------
+
+
+![git symbolt](images/git.jpeg)
+
+------------
+Linus Torvalds
+==============
+Invented git in 2005
+![Linus Torvalds](images/linus.jpeg)
+
+-------------
+
+
+
+
