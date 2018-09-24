@@ -138,11 +138,32 @@ git checkout master
 ```
 git merge testing
 ```
+---
 
+*Remote Repositories*
+===================
 
+----
 
+Github
+======
 
-  
+![octocat](images/github.jpeg)
+
+---
+
+SSH
+===
+from Wikipedia: "Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. ... The best known example application is for remote login to computer systems by users."
+
+---
+
+Steps to Set Up an SSH Connection With Github
+=============================================
+
+1) [Check for existing SSH Keys](https://help.github.com/articles/checking-for-existing-ssh-keys/)
+2) [Generating a New SSH Key and/or adding it to the SSH agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+3) [Add the SSH Key To Your Github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 
 
