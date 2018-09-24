@@ -117,6 +117,14 @@ git commit -m "message"
 ```
 ----------
 
+How Do I Get Out of Vim?
+=======================
+
+```:q```
+[How To Exit the Vim Editor](https://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor)
+
+---
+
 Git Branching
 =============
 ![complicated diagramt](images/branching.png)
@@ -164,6 +172,10 @@ Steps to Set Up an SSH Connection With Github
 1) [Check for existing SSH Keys](https://help.github.com/articles/checking-for-existing-ssh-keys/)
 2) [Generating a New SSH Key and/or adding it to the SSH agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 3) [Add the SSH Key To Your Github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+---
+
+
 
 
 
