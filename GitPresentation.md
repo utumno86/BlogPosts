@@ -175,6 +175,11 @@ Steps to Set Up an SSH Connection With Github
 
 ---
 
+Git Clone
+=========
+
+[Git tutorial repo](https://github.com/utumno86/git_tutotial)
+
 
 
 
