@@ -148,8 +148,10 @@ git merge testing
 ```
 ---
 
-*Remote Repositories*
+*Remote Repositories* Workflow
 ===================
+
+![complex diagram](images/Git-Workflow-Diagram--5-.png)
 
 ----
 
@@ -180,6 +182,35 @@ Git Clone
 
 [Git tutorial repo](https://github.com/utumno86/git_tutotial)
 
+```git clone git@github.com:utumno86/git_tutotial.git GitTutorial```
+
+---
+
+Git Remote
+==========
+
+```
+git remote
+```
+```
+git remote add origin git@github.com:utumno86/git_tutotial.git
+```
+----
+
+Interacting With Remote Repositories
+====================================
+
+```git push```
+``` git pull ```
+
+Additional command: ```git fetch ```
+
+----
+
+Resoliving Merge Conflicts
+==========================
+
+![text editor](images/maxresdefault.jpg)
 
 
 
