@@ -151,7 +151,7 @@ git merge testing
 *Remote Repositories* Workflow
 ===================
 
-![complex diagram](images/Git-Workflow-Diagram--5-.png)
+![complex diagram](images/GIt-Workflow-Diagram--5-.png)
 
 ----
 
