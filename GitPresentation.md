@@ -212,6 +212,18 @@ Resoliving Merge Conflicts
 
 ![text editor](images/maxresdefault.jpg)
 
+-----
+
+Additional Resources
+====================
+
+
+[Git Cheatsheet](https://github.com/k88hudson/git-flight-rules)
+
+Git GUI Options:
+1) [SourceTree](https://www.sourcetreeapp.com/) -- An open source Atlassian product
+2) [Github Desktop](https://desktop.github.com/) -- Open source election-based crossed platform sponsored by Github
+3) [GitKraken](https://www.gitkraken.com/) -- Beautiful, but paid!
 
 
 
