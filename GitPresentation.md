@@ -1,3 +1,5 @@
+<!-- $theme: gaia -->
+
 On Git
 =======
 A Crash Course By
