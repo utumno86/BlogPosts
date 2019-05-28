@@ -29,19 +29,19 @@ There are a couple of skills indirectly related to coding that you need to know 
 
 If you develop on a Mac [Homebrew](https://brew.sh/) is ubiquitous. Install it, and install all of your programming stuff through it.
 
-3) **Get a text editor that you like.**
+6) **Get a text editor that you like.**
 
  All of your coding is going to be done through a text editor with code syntax highlighting, so you need to be comfortable with one. [Sublime Text](https://www.sublimetext.com/) is a really simple one with zero bells and whistles. I used to recommend [Atom](https://atom.io/) for a text editor that could be simple but has a lot of bells and whistles you can install, but these days Atom has been mostly supplanted by [VSCode](https://code.visualstudio.com/) (which is what I am currently using). If you really like a text editor that can do a lot of stuff and are willing to shell out the money, [Jetbrains](https://www.jetbrains.com/products.html?fromMenu) has a full on Integrated Development Environment for all occasions.
 
-4) **Learn git.**
+7) **Learn git.**
 
 git is a command line based Version Control system which is pretty universally used for keeping track of code changes in industry. There's a tutorial on codecademy. There's also a some good tutorials over on [Github guides](https://guides.github.com/activities/hello-world/). git is how you get your projects on Github. I recommend learning the command line commands, but there are GUIs out there if they make you more comfortable, from [Github Desktop](https://desktop.github.com/) to [Sourcetree](https://www.sourcetreeapp.com/) to, if you are willing to shell out the money, [GitKracken](https://www.gitkraken.com/).
 
-5) **Learn HTML/CSS**
+8) **Learn HTML/CSS**
 
   Even if you plan on being primarily a back end developer and don't have much aptitude for making things pretty, if you are going into web development you will most likely be positioned as (functionally) a full stack developer. That means you need to know how web pages are constructed, and to do that you need to have a fundamental understanding of HTML and CSS. There are a wide variety of HTML/CSS tutorials on the Internet, but Codecademy has a few. Build a few static websites, try to make a copy of a simple one like [Hacker News](https://news.ycombinator.com/). If, like me, you have no knack for making pages pretty, it might behoove you to learn a common CSS library like [Bootstrap](https://getbootstrap.com/) or [MaterializeCSS](https://materializecss.com/).
 
-6) **Pick a programming language and learn it reasonably well.**
+9) **Pick a programming language and learn it reasonably well.**
 
 Picking your first language is important but maybe not as important as you think. In the long run most languages and patterns are pretty similar, and eventually you will have an arsenal of 5 or 6 major coding languages and dozens of smaller ones. In the short term, however, you will want to focus all of your effort into learning one. For starting out your choices are basically Ruby, Python, Javascript, and Java. If you are developing on Windows, you will want to look into .Net, which is a suite of development tools primarily using C++ and C#. You might want to look at job postings in your area to see what is in highest demand; I can only speak to what it's like in Tampa.
 
@@ -57,7 +57,7 @@ Picking your first language is important but maybe not as important as you think
 
 I recommend codecademy for the sort of beginner stuff on those languages. Once you have the basics down, you can ramp up your skills doing coding exercises. I personally really like [Exercism](https://exercism.io/) but it has a steep learning curve. [Code Wars](https://www.codewars.com/) is also really popular.
 
-7) **Build a web app.**
+10) **Build a web app.**
 
 Once you have the language down you want to be able to actually do something with it. As a web developer you probably want to build a web application. This part is probably going to be the most involved, but there are lots of options for tutorials on the Internet. I like a lot of the tutorials on [Udemy](https://www.udemy.com/) (Although, pro tip: wait until there's a sale and don't pay more than like 10 to 12 dollars for a course.) You can also buy a book (although be careful with the edition and make sure you've got something up-to-date: things move fast in tech and sometimes a book that's even 6 months old can be so obsolete as to be useless). I'm a fan of [The Pragmatic Programmers](https://pragprog.com/).
 - As mentioned there are a lot of options in Javascript, but probably you'll want to build a front-end application in [React](https://reactjs.org/). If you are looking to build a JS backend, you'll want to use [Node.js](https://nodejs.org/en/). A popular backend Node framework is [Expess.js](https://expressjs.com/). There are also free resources for learning Node at [Node School](https://nodeschool.io/).
@@ -66,7 +66,7 @@ Once you have the language down you want to be able to actually do something wit
 
 - [Ruby on Rails](https://rubyonrails.org/) is of course, the main focus of development in Ruby.
 
-8) **Get your web app live.**
+11) **Get your web app live.**
 
 For fast and easy app hosting for something with a backend component (and particularly for Rails) nothing beats [Heroku](https://www.heroku.com/) (which is now owned by Salesforce). Heroku has the benefit of solid documentation to get almost any project off the ground and a generous free tier, but it is kind of a bitch to debug and fix if something goes wrong. Alternately, [AWS Lambda](https://aws.amazon.com/lambda/) and [Microsoft Azure](https://azure.microsoft.com/en-us/) offer similar services, although I am not as familiar with them. For a lightweight app with no back end component, you can use [surge](https://surge.sh/).
 
