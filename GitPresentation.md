@@ -31,8 +31,9 @@ Class Resources
 This presentation and all links in it will be available online
 https://github.com/utumno86/BlogPosts/blob/master/GitPresentation.md
 
-Presentation written with [Marp](https://yhatt.github.io/marp/)
+Keynote: https://github.com/utumno86/BlogPosts/blob/master/GitPresentation.key
 
+PDF: https://github.com/utumno86/BlogPosts/blob/master/GitPresentation.pdf
 -------------
 
 What is a version control system?
@@ -57,7 +58,7 @@ Invented git in 2005
 
 Installing Git
 ==============
-- OsX 
+- OsX
 	- install Homebrew [brew.sh](brew.sh)
 	```
     brew install git
@@ -184,7 +185,7 @@ Git Clone
 
 [Git tutorial repo](https://github.com/utumno86/git_tutotial)
 
-```git clone git@github.com:utumno86/git_tutotial.git GitTutorial```
+```git clone git@github.com:utumno86/git_tutorial.git GitTutorial```
 
 ---
 
@@ -195,7 +196,7 @@ Git Remote
 git remote
 ```
 ```
-git remote add origin git@github.com:utumno86/git_tutotial.git
+git remote add origin git@github.com:utumno86/git_tutorial.git
 ```
 ----
 
